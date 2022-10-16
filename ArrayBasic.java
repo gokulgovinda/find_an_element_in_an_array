@@ -1,4 +1,4 @@
-package ArrayBasic; 
+package ArrayBasic;   
  
 public class arrayBasics { 
 
@@ -24,8 +24,9 @@ public class arrayBasics {
 			String result;
 			System.out.println("Key is present at "+ result);
 		}
-
+ 
 	}
+
 
 
 
