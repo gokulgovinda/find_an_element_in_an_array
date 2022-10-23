@@ -12,7 +12,7 @@ public class arrayBasics {
 			if(a[i] == key) {
 				result = i;
 				break;
-				
+				  
 			}
 		}
 		}
