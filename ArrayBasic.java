@@ -14,7 +14,7 @@ public class arrayBasics {
 				break;
 				  
 			}
-		}
+	  	} 
 		}
 		
 		if(result == -1) {
