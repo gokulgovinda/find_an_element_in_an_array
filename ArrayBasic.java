@@ -1,6 +1,6 @@
 package ArrayBasic;      
    
-public class arrayBasics {      
+public class arrayBasics {       
  
 	public static void main(String[] args) {
 		int a[] = {2, 1, 4, 6, 5};
